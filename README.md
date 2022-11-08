@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **bernardorclavinas@gmail.com**
 
+- 📄 Know about my experiences **www.linkedin.com/in/bernardo-lavinas-dev**
+
 - ⚡ Fun fact **I have 4 dogs and 3 cats S2**
 
 <h3 align="left">Connect with me:</h3>
