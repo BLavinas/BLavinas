@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bernardo Lavinas</h1>
-<h3 align="center">A developer passionate about technology</h3>
+<h3 align="center">A Full-Stack developer passionate about technology</h3>
 
-- 🌱 I’m currently learning **SQL, MaterialUI, Bootstrap**
+- 🌱 I’m currently learning **MongoDB, MaterialUI, Bootstrap**
 
-- 💬 Ask me about **React, Redux, Context API, Java Script, HTML, CSS**
+- 💬 Ask me about **React, Node.Js, TypeScript, MySql, Java Script, HTML, CSS**
 
 - 📫 How to reach me **bernardorclavinas@gmail.com**
 
